@@ -18,7 +18,7 @@ no resultant pleasure?"
 
 
 ...
-00:25:34 hrs. del tutorial: Aprende VS Code ahora...de Nicolás Schurmman.
+00:28:11 hrs. del tutorial: Aprende VS Code ahora...de Nicolás Schurmman.
 ...
 
 Contenido:
